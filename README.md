@@ -1,2 +1,2 @@
 # BGD2
-Second test repo 
+Second test repo. Currently set with MIT license.  
